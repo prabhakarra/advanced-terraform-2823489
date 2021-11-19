@@ -1,6 +1,7 @@
 # //////////////////////////////
 # VARIABLES
 # //////////////////////////////
+# for terraform cloud
 variable "aws_access_key" {}
 
 variable "aws_secret_key" {}
